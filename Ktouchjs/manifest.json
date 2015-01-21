@@ -1,0 +1,16 @@
+{
+ "name": "K-Touch for Chrome",
+ "description": "某世界の破壊者がコンプリートフォームになるためのアイテム",
+ "version": "1.0.0",
+ "app": {
+   "launch": {
+     "local_path": "index.html"
+   }
+ },
+ "icons": {
+   "16": "16.png",
+   "128": "128.png"
+ },
+ "permissions": [
+ ]
+}

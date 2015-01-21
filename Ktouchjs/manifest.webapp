@@ -1,0 +1,14 @@
+{
+  "name": "K-Touch for FireFox",
+  "description": "某世界の破壊者がコンプリートフォームになるためのアイテム",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "512.png",
+    "128": "128.png"
+  },
+  "developer": {
+    "name": "poropi",
+    "url": "https://www.facebook.com/tomoaki.hirosawa"
+  },
+  "default_locale": "ja"
+}
